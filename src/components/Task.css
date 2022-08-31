@@ -9,3 +9,16 @@
     align-items: center;
     border: 1px solid rgba(146, 95, 228, 0.5);
 }
+
+.task-title {
+    cursor: pointer;
+}
+
+.remove-task-button,
+.see-task-details-button {
+    background-color: #444;
+    border: none;
+    font-size: 24px;
+    color: rgb(146, 95, 228);
+    cursor: pointer;
+}
